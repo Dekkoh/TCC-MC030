@@ -1,16 +1,53 @@
-﻿  AllMovements.cpp
-  AllSensor.cpp
-  AllValues.cpp
-  MyProjectApp.cpp
+﻿  MyProjectApp.cpp
 c:\users\dekkoh\documents\tcc\dynamixelsdk\c++\example\protocol2.0\myproject\myproject\myprojectapp.cpp(25): warning C4311: 'conversão de tipo': truncamento de ponteiro de 'void *' para 'long'
 c:\users\dekkoh\documents\tcc\dynamixelsdk\c++\example\protocol2.0\myproject\myproject\myprojectapp.cpp(25): warning C4302: 'conversão de tipo': truncamento de 'void *' para 'long'
+  comms.cpp
+c:\users\dekkoh\documents\tcc\dynamixelsdk\c++\example\protocol2.0\myproject\myproject\firmware_registers.h(75): warning C4005: 'BAUD_9600': redefinição de macro
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\winbase.h(381): note: consulte a definição anterior de 'BAUD_9600'
+c:\users\dekkoh\documents\tcc\dynamixelsdk\c++\example\protocol2.0\myproject\myproject\firmware_registers.h(76): warning C4005: 'BAUD_14400': redefinição de macro
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\winbase.h(382): note: consulte a definição anterior de 'BAUD_14400'
+c:\users\dekkoh\documents\tcc\dynamixelsdk\c++\example\protocol2.0\myproject\myproject\firmware_registers.h(77): warning C4005: 'BAUD_19200': redefinição de macro
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\winbase.h(383): note: consulte a definição anterior de 'BAUD_19200'
+c:\users\dekkoh\documents\tcc\dynamixelsdk\c++\example\protocol2.0\myproject\myproject\firmware_registers.h(78): warning C4005: 'BAUD_38400': redefinição de macro
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\winbase.h(384): note: consulte a definição anterior de 'BAUD_38400'
+c:\users\dekkoh\documents\tcc\dynamixelsdk\c++\example\protocol2.0\myproject\myproject\firmware_registers.h(79): warning C4005: 'BAUD_57600': redefinição de macro
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\winbase.h(388): note: consulte a definição anterior de 'BAUD_57600'
+c:\users\dekkoh\documents\tcc\dynamixelsdk\c++\example\protocol2.0\myproject\myproject\firmware_registers.h(80): warning C4005: 'BAUD_115200': redefinição de macro
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\winbase.h(387): note: consulte a definição anterior de 'BAUD_115200'
+c:\users\dekkoh\documents\tcc\dynamixelsdk\c++\example\protocol2.0\myproject\myproject\comms.cpp(157): warning C4101: 'e': variável local não referenciada
+c:\users\dekkoh\documents\tcc\dynamixelsdk\c++\example\protocol2.0\myproject\myproject\comms.cpp(161): warning C4101: 'e': variável local não referenciada
+  imu.cpp
+c:\users\dekkoh\documents\tcc\dynamixelsdk\c++\example\protocol2.0\myproject\myproject\firmware_registers.h(75): warning C4005: 'BAUD_9600': redefinição de macro
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\winbase.h(381): note: consulte a definição anterior de 'BAUD_9600'
+c:\users\dekkoh\documents\tcc\dynamixelsdk\c++\example\protocol2.0\myproject\myproject\firmware_registers.h(76): warning C4005: 'BAUD_14400': redefinição de macro
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\winbase.h(382): note: consulte a definição anterior de 'BAUD_14400'
+c:\users\dekkoh\documents\tcc\dynamixelsdk\c++\example\protocol2.0\myproject\myproject\firmware_registers.h(77): warning C4005: 'BAUD_19200': redefinição de macro
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\winbase.h(383): note: consulte a definição anterior de 'BAUD_19200'
+c:\users\dekkoh\documents\tcc\dynamixelsdk\c++\example\protocol2.0\myproject\myproject\firmware_registers.h(78): warning C4005: 'BAUD_38400': redefinição de macro
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\winbase.h(384): note: consulte a definição anterior de 'BAUD_38400'
+c:\users\dekkoh\documents\tcc\dynamixelsdk\c++\example\protocol2.0\myproject\myproject\firmware_registers.h(79): warning C4005: 'BAUD_57600': redefinição de macro
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\winbase.h(388): note: consulte a definição anterior de 'BAUD_57600'
+c:\users\dekkoh\documents\tcc\dynamixelsdk\c++\example\protocol2.0\myproject\myproject\firmware_registers.h(80): warning C4005: 'BAUD_115200': redefinição de macro
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\winbase.h(387): note: consulte a definição anterior de 'BAUD_115200'
+c:\users\dekkoh\documents\tcc\dynamixelsdk\c++\example\protocol2.0\myproject\myproject\imu.cpp(367): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+c:\users\dekkoh\documents\tcc\dynamixelsdk\c++\example\protocol2.0\myproject\myproject\imu.cpp(381): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+c:\users\dekkoh\documents\tcc\dynamixelsdk\c++\example\protocol2.0\myproject\myproject\imu.cpp(362): warning C4101: 'ptr1': variável local não referenciada
+c:\users\dekkoh\documents\tcc\dynamixelsdk\c++\example\protocol2.0\myproject\myproject\imu.cpp(426): warning C4101: 'e': variável local não referenciada
+c:\users\dekkoh\documents\tcc\dynamixelsdk\c++\example\protocol2.0\myproject\myproject\imu.cpp(466): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+c:\users\dekkoh\documents\tcc\dynamixelsdk\c++\example\protocol2.0\myproject\myproject\imu.cpp(498): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+c:\users\dekkoh\documents\tcc\dynamixelsdk\c++\example\protocol2.0\myproject\myproject\imu.cpp(458): warning C4101: 'ptr1': variável local não referenciada
+c:\users\dekkoh\documents\tcc\dynamixelsdk\c++\example\protocol2.0\myproject\myproject\imu.cpp(573): warning C4101: 'e': variável local não referenciada
+c:\users\dekkoh\documents\tcc\dynamixelsdk\c++\example\protocol2.0\myproject\myproject\registers.h(133): warning C4244: 'argumento': conversão de 'uint16_t' para 'uint8_t', possível perda de dados
+  c:\users\dekkoh\documents\tcc\dynamixelsdk\c++\example\protocol2.0\myproject\myproject\registers.h(132): note: ao compilar a função membro '<Desconhecido>' de classe <Desconhecido>
+  c:\users\dekkoh\documents\tcc\dynamixelsdk\c++\example\protocol2.0\myproject\myproject\imu.cpp(313): note: consulte a referência à instanciação da função modelo 'double um7::Accessor<float>::get_scaled(uint16_t) const' que está sendo compilada
+  c:\users\dekkoh\documents\tcc\dynamixelsdk\c++\example\protocol2.0\myproject\myproject\registers.h(179): note: consulte a referência à instanciação '<Desconhecido>' de classe <Desconhecido> que está sendo compilada
   tccFrm.cpp
 c:\users\dekkoh\documents\tcc\dynamixelsdk\c++\example\protocol2.0\myproject\myproject\tccfrm.cpp(151): warning C4311: 'conversão de tipo': truncamento de ponteiro de 'void *' para 'int'
 c:\users\dekkoh\documents\tcc\dynamixelsdk\c++\example\protocol2.0\myproject\myproject\tccfrm.cpp(151): warning C4302: 'conversão de tipo': truncamento de 'void *' para 'int'
 c:\users\dekkoh\documents\tcc\dynamixelsdk\c++\example\protocol2.0\myproject\myproject\tccfrm.cpp(718): warning C4312: 'conversão de tipo': conversão de 'int' para 'void *' de tamanho maior
   Gerando código
-  132 of 1871 functions ( 7.1%) were compiled, the rest were copied from previous compilation.
-    3 functions were new in current compilation
-    28 functions had inline decision re-evaluated but remain unchanged
+  0 of 1871 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
   Finalizada a geração de código
   MyProject.vcxproj -> C:\Users\Dekkoh\Documents\TCC\DynamixelSDK\c++\example\protocol2.0\MyProject\x64\Release\MyProject.exe
