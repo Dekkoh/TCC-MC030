@@ -1,0 +1,16 @@
+﻿  AllMovements.cpp
+  AllSensor.cpp
+  AllValues.cpp
+  MyProjectApp.cpp
+c:\users\dekkoh\documents\tcc\dynamixelsdk\c++\example\protocol2.0\myproject\myproject\myprojectapp.cpp(25): warning C4311: 'conversão de tipo': truncamento de ponteiro de 'void *' para 'long'
+c:\users\dekkoh\documents\tcc\dynamixelsdk\c++\example\protocol2.0\myproject\myproject\myprojectapp.cpp(25): warning C4302: 'conversão de tipo': truncamento de 'void *' para 'long'
+  tccFrm.cpp
+c:\users\dekkoh\documents\tcc\dynamixelsdk\c++\example\protocol2.0\myproject\myproject\tccfrm.cpp(151): warning C4311: 'conversão de tipo': truncamento de ponteiro de 'void *' para 'int'
+c:\users\dekkoh\documents\tcc\dynamixelsdk\c++\example\protocol2.0\myproject\myproject\tccfrm.cpp(151): warning C4302: 'conversão de tipo': truncamento de 'void *' para 'int'
+c:\users\dekkoh\documents\tcc\dynamixelsdk\c++\example\protocol2.0\myproject\myproject\tccfrm.cpp(718): warning C4312: 'conversão de tipo': conversão de 'int' para 'void *' de tamanho maior
+  Gerando código
+  132 of 1871 functions ( 7.1%) were compiled, the rest were copied from previous compilation.
+    3 functions were new in current compilation
+    28 functions had inline decision re-evaluated but remain unchanged
+  Finalizada a geração de código
+  MyProject.vcxproj -> C:\Users\Dekkoh\Documents\TCC\DynamixelSDK\c++\example\protocol2.0\MyProject\x64\Release\MyProject.exe

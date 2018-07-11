@@ -1,0 +1,183 @@
+﻿  group_bulk_read.cpp
+c:\users\dekkoh\documents\tcc\dynamixelsdk\c++\include\dynamixel_sdk\group_bulk_read.h(43): warning C4251: 'dynamixel::GroupBulkRead::id_list_': class 'std::vector<uint8_t,std::allocator<_Ty>>' precisa ter dll-interface para ser usado por clientes de class 'dynamixel::GroupBulkRead'
+          with
+          [
+              _Ty=uint8_t
+          ]
+  c:\users\dekkoh\documents\tcc\dynamixelsdk\c++\include\dynamixel_sdk\packet_handler.h(199): note: consulte a declaração de 'std::vector<uint8_t,std::allocator<_Ty>>'
+          with
+          [
+              _Ty=uint8_t
+          ]
+c:\users\dekkoh\documents\tcc\dynamixelsdk\c++\include\dynamixel_sdk\group_bulk_read.h(44): warning C4251: 'dynamixel::GroupBulkRead::address_list_': class 'std::map<uint8_t,uint16_t,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>>' precisa ter dll-interface para ser usado por clientes de class 'dynamixel::GroupBulkRead'
+          with
+          [
+              _Kty=uint8_t,
+              _Ty=uint16_t
+          ]
+  c:\users\dekkoh\documents\tcc\dynamixelsdk\c++\include\dynamixel_sdk\group_bulk_read.h(44): note: consulte a declaração de 'std::map<uint8_t,uint16_t,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>>'
+          with
+          [
+              _Kty=uint8_t,
+              _Ty=uint16_t
+          ]
+c:\users\dekkoh\documents\tcc\dynamixelsdk\c++\include\dynamixel_sdk\group_bulk_read.h(45): warning C4251: 'dynamixel::GroupBulkRead::length_list_': class 'std::map<uint8_t,uint16_t,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>>' precisa ter dll-interface para ser usado por clientes de class 'dynamixel::GroupBulkRead'
+          with
+          [
+              _Kty=uint8_t,
+              _Ty=uint16_t
+          ]
+  c:\users\dekkoh\documents\tcc\dynamixelsdk\c++\include\dynamixel_sdk\group_bulk_read.h(44): note: consulte a declaração de 'std::map<uint8_t,uint16_t,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>>'
+          with
+          [
+              _Kty=uint8_t,
+              _Ty=uint16_t
+          ]
+c:\users\dekkoh\documents\tcc\dynamixelsdk\c++\include\dynamixel_sdk\group_bulk_read.h(46): warning C4251: 'dynamixel::GroupBulkRead::data_list_': class 'std::map<uint8_t,uint8_t *,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>>' precisa ter dll-interface para ser usado por clientes de class 'dynamixel::GroupBulkRead'
+          with
+          [
+              _Kty=uint8_t,
+              _Ty=uint8_t *
+          ]
+  c:\users\dekkoh\documents\tcc\dynamixelsdk\c++\include\dynamixel_sdk\group_bulk_read.h(46): note: consulte a declaração de 'std::map<uint8_t,uint8_t *,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>>'
+          with
+          [
+              _Kty=uint8_t,
+              _Ty=uint8_t *
+          ]
+c:\users\dekkoh\documents\tcc\dynamixelsdk\c++\include\dynamixel_sdk\group_bulk_read.h(47): warning C4251: 'dynamixel::GroupBulkRead::error_list_': class 'std::map<uint8_t,uint8_t *,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>>' precisa ter dll-interface para ser usado por clientes de class 'dynamixel::GroupBulkRead'
+          with
+          [
+              _Kty=uint8_t,
+              _Ty=uint8_t *
+          ]
+  c:\users\dekkoh\documents\tcc\dynamixelsdk\c++\include\dynamixel_sdk\group_bulk_read.h(46): note: consulte a declaração de 'std::map<uint8_t,uint8_t *,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>>'
+          with
+          [
+              _Kty=uint8_t,
+              _Ty=uint8_t *
+          ]
+c:\users\dekkoh\documents\tcc\dynamixelsdk\c++\src\dynamixel_sdk\group_bulk_read.cpp(147): warning C4267: 'argumento': conversão de 'size_t' para 'uint16_t', possível perda de dados
+c:\users\dekkoh\documents\tcc\dynamixelsdk\c++\src\dynamixel_sdk\group_bulk_read.cpp(151): warning C4267: 'argumento': conversão de 'size_t' para 'uint16_t', possível perda de dados
+c:\users\dekkoh\documents\tcc\dynamixelsdk\c++\src\dynamixel_sdk\group_bulk_read.cpp(157): warning C4267: 'inicializando': conversão de 'size_t' para 'int', possível perda de dados
+  group_bulk_write.cpp
+c:\users\dekkoh\documents\tcc\dynamixelsdk\c++\include\dynamixel_sdk\group_bulk_write.h(43): warning C4251: 'dynamixel::GroupBulkWrite::id_list_': class 'std::vector<uint8_t,std::allocator<_Ty>>' precisa ter dll-interface para ser usado por clientes de class 'dynamixel::GroupBulkWrite'
+          with
+          [
+              _Ty=uint8_t
+          ]
+  c:\users\dekkoh\documents\tcc\dynamixelsdk\c++\include\dynamixel_sdk\packet_handler.h(199): note: consulte a declaração de 'std::vector<uint8_t,std::allocator<_Ty>>'
+          with
+          [
+              _Ty=uint8_t
+          ]
+c:\users\dekkoh\documents\tcc\dynamixelsdk\c++\include\dynamixel_sdk\group_bulk_write.h(44): warning C4251: 'dynamixel::GroupBulkWrite::address_list_': class 'std::map<uint8_t,uint16_t,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>>' precisa ter dll-interface para ser usado por clientes de class 'dynamixel::GroupBulkWrite'
+          with
+          [
+              _Kty=uint8_t,
+              _Ty=uint16_t
+          ]
+  c:\users\dekkoh\documents\tcc\dynamixelsdk\c++\include\dynamixel_sdk\group_bulk_write.h(44): note: consulte a declaração de 'std::map<uint8_t,uint16_t,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>>'
+          with
+          [
+              _Kty=uint8_t,
+              _Ty=uint16_t
+          ]
+c:\users\dekkoh\documents\tcc\dynamixelsdk\c++\include\dynamixel_sdk\group_bulk_write.h(45): warning C4251: 'dynamixel::GroupBulkWrite::length_list_': class 'std::map<uint8_t,uint16_t,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>>' precisa ter dll-interface para ser usado por clientes de class 'dynamixel::GroupBulkWrite'
+          with
+          [
+              _Kty=uint8_t,
+              _Ty=uint16_t
+          ]
+  c:\users\dekkoh\documents\tcc\dynamixelsdk\c++\include\dynamixel_sdk\group_bulk_write.h(44): note: consulte a declaração de 'std::map<uint8_t,uint16_t,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>>'
+          with
+          [
+              _Kty=uint8_t,
+              _Ty=uint16_t
+          ]
+c:\users\dekkoh\documents\tcc\dynamixelsdk\c++\include\dynamixel_sdk\group_bulk_write.h(46): warning C4251: 'dynamixel::GroupBulkWrite::data_list_': class 'std::map<uint8_t,uint8_t *,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>>' precisa ter dll-interface para ser usado por clientes de class 'dynamixel::GroupBulkWrite'
+          with
+          [
+              _Kty=uint8_t,
+              _Ty=uint8_t *
+          ]
+  c:\users\dekkoh\documents\tcc\dynamixelsdk\c++\include\dynamixel_sdk\group_bulk_write.h(46): note: consulte a declaração de 'std::map<uint8_t,uint8_t *,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>>'
+          with
+          [
+              _Kty=uint8_t,
+              _Ty=uint8_t *
+          ]
+  group_sync_read.cpp
+c:\users\dekkoh\documents\tcc\dynamixelsdk\c++\include\dynamixel_sdk\group_sync_read.h(43): warning C4251: 'dynamixel::GroupSyncRead::id_list_': class 'std::vector<uint8_t,std::allocator<_Ty>>' precisa ter dll-interface para ser usado por clientes de class 'dynamixel::GroupSyncRead'
+          with
+          [
+              _Ty=uint8_t
+          ]
+  c:\users\dekkoh\documents\tcc\dynamixelsdk\c++\include\dynamixel_sdk\packet_handler.h(199): note: consulte a declaração de 'std::vector<uint8_t,std::allocator<_Ty>>'
+          with
+          [
+              _Ty=uint8_t
+          ]
+c:\users\dekkoh\documents\tcc\dynamixelsdk\c++\include\dynamixel_sdk\group_sync_read.h(44): warning C4251: 'dynamixel::GroupSyncRead::data_list_': class 'std::map<uint8_t,uint8_t *,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>>' precisa ter dll-interface para ser usado por clientes de class 'dynamixel::GroupSyncRead'
+          with
+          [
+              _Kty=uint8_t,
+              _Ty=uint8_t *
+          ]
+  c:\users\dekkoh\documents\tcc\dynamixelsdk\c++\include\dynamixel_sdk\group_sync_read.h(44): note: consulte a declaração de 'std::map<uint8_t,uint8_t *,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>>'
+          with
+          [
+              _Kty=uint8_t,
+              _Ty=uint8_t *
+          ]
+c:\users\dekkoh\documents\tcc\dynamixelsdk\c++\include\dynamixel_sdk\group_sync_read.h(45): warning C4251: 'dynamixel::GroupSyncRead::error_list_': class 'std::map<uint8_t,uint8_t *,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>>' precisa ter dll-interface para ser usado por clientes de class 'dynamixel::GroupSyncRead'
+          with
+          [
+              _Kty=uint8_t,
+              _Ty=uint8_t *
+          ]
+  c:\users\dekkoh\documents\tcc\dynamixelsdk\c++\include\dynamixel_sdk\group_sync_read.h(44): note: consulte a declaração de 'std::map<uint8_t,uint8_t *,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>>'
+          with
+          [
+              _Kty=uint8_t,
+              _Ty=uint8_t *
+          ]
+c:\users\dekkoh\documents\tcc\dynamixelsdk\c++\src\dynamixel_sdk\group_sync_read.cpp(131): warning C4267: 'inicializando': conversão de 'size_t' para 'int', possível perda de dados
+  group_sync_write.cpp
+c:\users\dekkoh\documents\tcc\dynamixelsdk\c++\include\dynamixel_sdk\group_sync_write.h(43): warning C4251: 'dynamixel::GroupSyncWrite::id_list_': class 'std::vector<uint8_t,std::allocator<_Ty>>' precisa ter dll-interface para ser usado por clientes de class 'dynamixel::GroupSyncWrite'
+          with
+          [
+              _Ty=uint8_t
+          ]
+  c:\users\dekkoh\documents\tcc\dynamixelsdk\c++\include\dynamixel_sdk\packet_handler.h(199): note: consulte a declaração de 'std::vector<uint8_t,std::allocator<_Ty>>'
+          with
+          [
+              _Ty=uint8_t
+          ]
+c:\users\dekkoh\documents\tcc\dynamixelsdk\c++\include\dynamixel_sdk\group_sync_write.h(44): warning C4251: 'dynamixel::GroupSyncWrite::data_list_': class 'std::map<uint8_t,uint8_t *,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>>' precisa ter dll-interface para ser usado por clientes de class 'dynamixel::GroupSyncWrite'
+          with
+          [
+              _Kty=uint8_t,
+              _Ty=uint8_t *
+          ]
+  c:\users\dekkoh\documents\tcc\dynamixelsdk\c++\include\dynamixel_sdk\group_sync_write.h(44): note: consulte a declaração de 'std::map<uint8_t,uint8_t *,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>>'
+          with
+          [
+              _Kty=uint8_t,
+              _Ty=uint8_t *
+          ]
+c:\users\dekkoh\documents\tcc\dynamixelsdk\c++\src\dynamixel_sdk\group_sync_write.cpp(133): warning C4267: 'argumento': conversão de 'size_t' para 'uint16_t', possível perda de dados
+  packet_handler.cpp
+  port_handler.cpp
+  port_handler_windows.cpp
+  protocol1_packet_handler.cpp
+c:\users\dekkoh\documents\tcc\dynamixelsdk\c++\src\dynamixel_sdk\protocol1_packet_handler.cpp(675): warning C4244: '=': conversão de 'uint16_t' para 'uint8_t', possível perda de dados
+c:\users\dekkoh\documents\tcc\dynamixelsdk\c++\src\dynamixel_sdk\protocol1_packet_handler.cpp(676): warning C4244: '=': conversão de 'uint16_t' para 'uint8_t', possível perda de dados
+  protocol2_packet_handler.cpp
+     Criando biblioteca C:\Users\Dekkoh\Documents\TCC\DynamixelSDK\c++\build\win64\output\dxl_x64_cpp.lib e objeto C:\Users\Dekkoh\Documents\TCC\DynamixelSDK\c++\build\win64\output\dxl_x64_cpp.exp
+  Gerando código
+  0 of 584 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finalizada a geração de código
+  dxl_x64_cpp.vcxproj -> C:\Users\Dekkoh\Documents\TCC\DynamixelSDK\c++\build\win64\output\dxl_x64_cpp.dll

@@ -1,0 +1,2 @@
+﻿  MyProjectApp.cpp
+LINK : fatal error LNK1104: não é possível abrir o arquivo 'wxbase30d.lib'
