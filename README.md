@@ -2,6 +2,7 @@
 
 ### Alunos
 André Tsuyoshi Sakiyama
+
 Bruno Takeshi Hori
 
 ### Orientadora
